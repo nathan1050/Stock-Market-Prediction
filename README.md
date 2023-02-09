@@ -1,4 +1,4 @@
-# Stock-Market-Prediction
+# Stock Market Prediction
 
 This publication can be viewed at: [link](https://ijcrt.org/papers/IJCRT2006388.pdf)
 
